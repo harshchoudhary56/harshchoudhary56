@@ -1,48 +1,95 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/header.png" alt="Header" />
-</p>
+<div align="center">
+  <h1>Hi! 👋</h1>
+</div>
 
-<h1 align="center">Hi 👋, I'm Harsh Choudhary</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+![banner image](/gh-banner.png)
 
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **[Tech/Framework]**
-- 👯 I’m looking to collaborate on **[Projects/Ideas]**
-- 🤝 I’m looking for help with **[Project/Topic]**
-- 💬 Ask me about **[Languages/Tools]**
-- 📫 How to reach me **[Email or LinkedIn]**
-- ⚡ Fun fact **[Fun fact about you]**
+<div align="center">
+  
+  [_Checkout the blogs and projects on my site 🚀_](https://www.harshchaudhary.com/)  
+  
+</div>
 
 ---
+<div align="center">
+  <h2> My Skills 👨‍💻</h2>
+  
+  <h3><i>Languages</i></h3>
+<span>
+<img src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-C++-00599C?logo=Cplusplus&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Java-F79918?logo=openjdk&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=for-the-badge"/>  
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"/>
+</span>
 
-### 🛠️ Languages and Tools:
+<h3><i>Backend</i></h3>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-</p>
+<div>
+  <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-FastAPI-009688?logo=FastAPI&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Flask-000000?logo=Flask&logoColor=white&style=for-the-badge"/>
+  </div>
+  <div>
+   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
+   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge"/>
+   <img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white&style=for-the-badge"/>
+  </div>
+
+<h3><i>Frontend</i></h3>
+
+<div>
+   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Next-000000?logo=next.js&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Hugo-FF4088?logo=hugo&logoColor=white&style=for-the-badge"/>
+</div>
+  
+<h3><i>DevOps</i></h3>
+<span>
+ <img src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge"/>
+   <img src="https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge"/>
+</span>
+
+<h3><i>Cloud</i></h3>
+<span>
+  <img src="https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonwebservices&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge"/>
+</span>
+
+<h3><i>Tools</i></h3>
+<span>
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-BASH-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge"/>
+</span>
+
+<h3><i>AI</i></h3>
+<span>
+  <img src="https://img.shields.io/badge/-Ollama-000000?logo=ollama&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Github%20Copilot-222222?logo=githubcopilot&logoColor=white&style=for-the-badge"/>
+</span>
+
+  </div>
 
 ---
-
-### 📊 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en" alt="yourusername" />
-</p>
-
+<div align="center">
+  <h2> Connect with me 🔗</h2>
+  <span>
+    <a href="https://www.harshchaudhary.com/"> <img src="https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white&style=for-the-badge"/></a>
+    <a href="mailto:harsh.chaudhary@gmail.com"> <img src="https://img.shields.io/badge/-EMail-EA4335?logo=gmail&logoColor=white&style=for-the-badge"/></a>
+    <a href="https://www.linkedin.com/in/harsh-choudhary-229b85228/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  </span>
+  
 ---
 
-### 🔗 Connect with me:
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/harsh-choudhary-229b85228/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="mailto:harsh.chaudhary.developer@gmail.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" />
-  </a>
-</p>
+---  
+  
+_Checkout some of my pinned repositories below 👇_
